@@ -1,2 +1,11 @@
 # SAE-303
-SAE données temporelles sur les avions
+## Objectifs et problématique professionnelle:
+Les données temporelles forment une source très importante de données (données climatiques, données socio-économiques, données de vente/consommation, données démographiques, ...). Le traitement de ces séries chronologiques nécessite une approche spécifique. Les enjeux de l’analyse des séries chronologiques sont principalement de fournir une représentation simple des grandes tendances de la série et de mettre en place des modèles permettant de prédire les valeurs futures de la série.
+En tant que chargé d’études économiques et statistiques, l’étudiant pourra être amené à réaliser des études quant à certains indicateurs et prédire les perspectives d’évolution de ces indicateurs.
+Les objectifs de cette SAÉ sont les suivants :
+– Amener l’étudiant à comprendre la spécificité des données temporelles ou chronologiques en vue d’une analyse
+– Introduire les méthodologies spécifiques aux données temporelles
+
+## Descriptif générique
+L’étudiant est mis en situation de modélisation d’une série temporelle et de prédiction de ses valeurs. L’étudiant est amené à présenter et contextualiser les données de la façon la plus claire et la plus précise possible (source des données, période d’étude considérée, unité des variables, présence d’une saisonnalité, ...), choisir un modèle de décomposition de la série (modèle additif ou modèle multiplicatif), faire apparaître la tendance et, le cas échéant, calculer les coefficients saisonniers puis déterminer la série corrigée des variations saisonnières ; commenter les résultats obtenus, valider le modèle de décomposition de la série et repérer les valeurs mal ajustées par le modèle en analysant les résidus ; effectuer des prévisions à court terme par une méthode adaptée (modélisation paramétrique de la tendance avec ajout des coefficients saisonniers, ou méthode de lissage exponentiel).
+Cette SAÉ permet d’introduire une méthodologie d’exploitation des données temporelles en abordant le formalisme mathématique dédié (modèles de décomposition, principe du lissage par moyennes mobiles, calcul des coefficients saisonniers, ...) et à l’utilisation d’un logiciel spécialisé (utilisation de fonctions existantes pour l’analyse des séries temporelles et/ou programmation de solutions adéquates).
